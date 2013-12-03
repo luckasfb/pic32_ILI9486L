@@ -1,0 +1,1 @@
+This project was designed to test drive a TFT LCD color screen controlled 8/16 bit parallel master port via PIC32 USB Starter Kit 2 and Microchips starter kit expansion board.
