@@ -25,5 +25,10 @@
 /* paste into this project.                                                   */
 /******************************************************************************/
 
-/* TODO Fill in your configuration bits from the config bits generator here.  */
-
+void init(void) {
+    Nop();
+    Nop();
+    Nop();
+//int temp = mPORTAGetConfig(void);
+//mPORTAReadConfigBit(unsigned int _bits);
+}
